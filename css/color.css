@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+
+.subscribe-form .form-control{color:#ef5350;}
+.form-control::-moz-placeholder{color:#222;}
+.form-control:-ms-input-placeholder{color:#222;}
+.form-control::-webkit-input-placeholder{color:#222;}
+.subscribe-form .form-control::-moz-placeholder{color:#ef5350;}
+.subscribe-form .form-control:-ms-input-placeholder{color:#ef5350;}
+.subscribe-form .form-control::-webkit-input-placeholder{color:#ef5350;}
+.btn-primary, .btn-primary:hover, .btn-primary:focus, .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover, .service:hover .icon-wrap i{background-color:#ef5350;}
+.btn-primary, .btn-primary:hover, .btn-primary:focus, .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover{border-color:#ef5350;}
+.skill .bar-container .bar, .service .icon-wrap i{background-color:#ef5350;}
