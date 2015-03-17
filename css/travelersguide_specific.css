@@ -12,8 +12,17 @@
 
 	.subscribe-form {
 		height:80px;
-		max-width: 80%;
+		max-width: 90%;
 	}
+
+	.subscribe-form label{
+		left:12px;
+	}
+
+	label {
+  		font-size: 10px;
+  		font-weight: 600;
+		}
 
 	button#mc-embedded-subscribe {
 		padding: 2px;
