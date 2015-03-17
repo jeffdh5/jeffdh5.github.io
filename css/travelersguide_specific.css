@@ -3,10 +3,12 @@
 		width: 95%;
 		border-bottom: 2px solid;
   		border-radius: 0px;
+  		font-size: 12px;
 	}
 
 	input#mce-MMERGE3.form-control {
 		width:95%; 
+		font-size: 12px;
 		
 	}
 
