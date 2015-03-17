@@ -51,6 +51,11 @@
 	border-radius:0px;
 	outline:0px;
 	}
+
+	h4#company_name {
+  		margin-left: 5px;
+	}
+
     
   }
 
@@ -85,6 +90,11 @@
 	border-radius:0px;
 	outline:0px;
 	}
+
+	h4#company_name {
+  		margin-left: 5px;
+	}
+
   }
 
 @media (min-width:980px){
@@ -117,6 +127,11 @@
 	margin-left:0px;
 	border-radius:0px;
 	outline:0px;
+	}
+
+	h4#company_name{
+		line-height:30px; 
+		margin-top:22.5px;
 	}
 
 }
