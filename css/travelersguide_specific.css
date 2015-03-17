@@ -1,3 +1,70 @@
+@media (max-width: 480px) {
+	input#mce-EMAIL.form-control {
+		width: 100%;
+		border-bottom: 2px solid;
+  		border-radius: 0px;
+	}
+
+	input#mce-MMERGE3.form-control {
+		width:100%; 
+		
+	}
+
+	.subscribe-form {
+		height:80px;
+	}
+
+	form#sub-form mc-embedded-subscribe-form {
+		max-width:400px; 
+		width:400px;
+	}
+
+	button#mc-embedded-subscribe {
+		height: 70px;
+	}
+    
+  }
+
+@media (max-width: 979px) and (min-width:481px) {
+  	input#mce-EMAIL.form-control {
+		width: 45%;
+  		float: left;
+  		border-right: 2px solid;
+  		border-radius: 0px;
+	}
+
+	input#mce-MMERGE3.form-control {
+		width:55%; 
+		float:left;
+	}
+
+	form#sub-form mc-embedded-subscribe-form {
+		max-width:700px; 
+		width:700px;
+	}
+  }
+
+@media (min-width:980px){
+	input#mce-EMAIL.form-control {
+		width: 45%;
+  		float: left;
+  		border-right: 2px solid;
+  		border-radius: 0px;
+	}
+
+	input#mce-MMERGE3.form-control {
+		width:55%; 
+		float:left;
+	}
+
+	form#sub-form mc-embedded-subscribe-form {
+		max-width:700px; 
+		width:700px;
+	}
+
+}
+
+
 .how-it-works {
 	height:100px;
 	margin-top:65px;
