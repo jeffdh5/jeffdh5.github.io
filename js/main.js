@@ -22,7 +22,7 @@ $('.how-it-works-btn').click(function() {
 							'<div class="how-it-works-point">',
 							'<object type="image/svg+xml" data="img/icons/earth188.svg" class="icon"></object>',
 							'<h2>Experience Life as a Local.</h2>',
-							'<p style="font-size:8px">Enjoy off-the-beaten-path activities like crab fishing in Taiwan or underground food touring in Los Angeles. We\'ll help you feel like a local wherever you are.</p>',
+							'<p>Enjoy off-the-beaten-path activities like crab fishing in Taiwan or underground food touring in Los Angeles. We\'ll help you feel like a local wherever you are.</p>',
 							'</div>',
 							'</div>',
 							'</div>'
