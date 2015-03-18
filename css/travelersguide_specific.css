@@ -1,3 +1,9 @@
+.icon {
+	width:40%;
+	height:40%;
+}
+
+
 @media (max-width: 480px) {
 	input#mce-EMAIL.form-control {
 		width: 95%;
