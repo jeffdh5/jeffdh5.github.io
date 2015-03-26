@@ -34,33 +34,7 @@ $('.how-it-works-btn').click(function() {
 								'</div>'
 							]
 	} else {
-				var how_it_works = [
-								'<div class="how-it-works-dropdown">',
-								'<div class="how-it-works-x">',
-								'<span style="float:right" class="how-it-works-x-link" onclick="closeit()">x</span>',
-								'</div>',
-								'<div class="how-it-works-content">',
-								'<div class="how-it-works-header">',
-								'<h1>How It Works</h1>',
-								'</div>',
-								'<div class="how-it-works-point">',
-								'<object type="image/svg+xml" data="img/icons/person154.svg" class="icon"></object>',
-								'<h2>Find Travel Buddies Anywhere.</h2>',
-								'<p>Discover friendly locals with personalities like yours around the world, and enlist them to help you with your travel plans.</p>',
-								'</div>',
-								'<div class="how-it-works-point">',
-								'<object type="image/svg+xml" data="img/icons/map29.svg" class="icon"></object>',
-								'<h2>Personalize Your Itineraries.</h2>',
-								'<p>Your travel buddy will communicate with you through video chat to help plan logistics and customized activities. If desired, you can also meet up with them in person.</p>',
-								'</div>',
-								'<div class="how-it-works-point">',
-								'<object type="image/svg+xml" data="img/icons/earth188.svg" class="icon"></object>',
-								'<h2>Experience Life as a Local.</h2>',
-								'<p>Enjoy off-the-beaten-path activities like crab fishing in Taiwan or underground food touring in Los Angeles. We\'ll help you feel like a local wherever you are.</p>',
-								'</div>',
-								'</div>',
-								'</div>'
-							]
+		window.location.replace("how_it_works.html")
 	};
 
 
