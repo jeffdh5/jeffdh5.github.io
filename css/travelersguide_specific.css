@@ -4,6 +4,8 @@
 }
 
 
+
+
 @media (max-width: 480px) {
 	input#mce-EMAIL.form-control {
 		width: 95%;
@@ -63,6 +65,22 @@
 	border-radius:0px;
 	outline:0px;
 	}
+
+	.back-btn {
+	background-color:#34495E;
+	border-color: #34495E; 
+	width:150px; 
+	margin-left:0px;
+	border-radius:0px;
+	outline:0px;
+	}
+
+	.back-btn:hover {
+		background-color: #2C3E50;
+		border-color: #2C3E50;
+	}
+
+
 
 	h4#company_name {
   		margin-left: 5px;
@@ -182,19 +200,6 @@
 	}
 
 
-	.back-btn {
-	background-color:#34495E;
-	border-color: #34495E; 
-	width:150px; 
-	margin-left:0px;
-	border-radius:0px;
-	outline:0px;
-	}
-
-	.back-btn:hover {
-		background-color: #2C3E50;
-		border-color: #2C3E50;
-	}
 
 	h4#company_name{
 		line-height:30px; 
