@@ -68,9 +68,13 @@
   		margin-left: 5px;
 	}
 
-	.how-it-works-point{
-		float:none;
-	}
+	.how-it-works-point {
+	width:25%;
+	margin-left:4.16%;
+	margin-top:20px;
+	margin-right:4.16%;
+	color:white;
+}
 
     
   }
@@ -114,6 +118,15 @@
 	.subscribe-form {
 		width: 90%;
 	}
+
+	.how-it-works-point {
+	width:25%;
+	float:left;
+	margin-left:4.16%;
+	margin-top:20px;
+	margin-right:4.16%;
+	color:white;
+}
 
 
 
@@ -164,6 +177,15 @@
 		width: 90%;
 	}
 
+	.how-it-works-point {
+	width:25%;
+	float:left;
+	margin-left:4.16%;
+	margin-top:20px;
+	margin-right:4.16%;
+	color:white;
+}
+
 }
 
 
@@ -208,14 +230,7 @@
 	text-decoration: underline;
 }
 
-.how-it-works-point {
-	width:25%;
-	float:left;
-	margin-left:4.16%;
-	margin-top:20px;
-	margin-right:4.16%;
-	color:white;
-}
+
 
 .services-container {
 	width: 100%;
