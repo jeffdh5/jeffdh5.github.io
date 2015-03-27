@@ -69,11 +69,13 @@
 	}
 
 	.how-it-works-point {
-	width:25%;
 	margin-left:4.16%;
 	margin-top:20px;
 	margin-right:4.16%;
 	color:white;
+	margin-left: auto;
+  	margin-right: auto;
+  	margin-bottom: 50px;
 }
 
     
